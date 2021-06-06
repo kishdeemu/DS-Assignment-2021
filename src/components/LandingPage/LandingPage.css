@@ -1,0 +1,11 @@
+.card-group{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+}
+
+.jumbotron_mod{
+    background-image: url(/src/assets/jumboBack.jpg);
+
+ }
+
